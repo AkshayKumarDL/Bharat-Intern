@@ -7,14 +7,20 @@ SMS spam has become a prevalent issue, with many individuals receiving unsolicit
 
 The project includes the following key components:
 
-### Data Collection: We collect a dataset of SMS messages labeled as spam or ham from various sources.
+### Data Collection: 
+We collect a dataset of SMS messages labeled as spam or ham from various sources.
 
-### Data Preprocessing: The collected data undergoes preprocessing steps such as tokenization, stop word removal, and stemming to prepare it for machine learning algorithms.
+### Data Preprocessing: 
+The collected data undergoes preprocessing steps such as tokenization, stop word removal, and stemming to prepare it for machine learning algorithms.
 
-### Feature Engineering: We extract relevant features from the preprocessed text data, such as word frequency, to use as input for the classifier.
+### Feature Engineering: 
+We extract relevant features from the preprocessed text data, such as word frequency, to use as input for the classifier.
 
-### Model Selection: We explore multiple machine learning algorithms including Logistic Regression, Support Vector Machines (SVM), Naive Bayes, Decision Trees, k-Nearest Neighbors (kNN), Random Forest, AdaBoost, Bagging, Extra Trees, Gradient Boosting, and XGBoost to determine the most effective model for classifying SMS messages.
+### Model Selection: 
+We explore multiple machine learning algorithms including Logistic Regression, Support Vector Machines (SVM), Naive Bayes, Decision Trees, k-Nearest Neighbors (kNN), Random Forest, AdaBoost, Bagging, Extra Trees, Gradient Boosting, and XGBoost to determine the most effective model for classifying SMS messages.
 
-### Model Evaluation: We evaluate the performance of each model using metrics such as accuracy, precision, recall, and F1-score to determine the best-performing classifier.
+### Model Evaluation: 
+We evaluate the performance of each model using metrics such as accuracy, precision, recall, and F1-score to determine the best-performing classifier.
 
-### Model Deployment: The final selected model is deployed as a standalone application or integrated into existing systems to classify incoming SMS messages in real-time.
+### Model Deployment: 
+The final selected model is deployed as a standalone application or integrated into existing systems to classify incoming SMS messages in real-time.
